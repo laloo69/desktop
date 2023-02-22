@@ -1,1 +1,1 @@
-Start-Process iexplore -ArgumentList "-k http://fakeupdate.net/win10ue/"
+Start-Process "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
